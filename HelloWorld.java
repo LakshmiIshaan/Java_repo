@@ -7,3 +7,5 @@ public class HelloWorld
 		System.out.println("Hello World!");
 	}
 }
+
+Helloworld Script copied from Google
